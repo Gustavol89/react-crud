@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Gustavo Lopes",
+      "email": "gugulbc@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Maria Aparecida",
+      "email": "mariaap@yahoo.com",
+      "id": 4
+    },
+    {
+      "name": "Pedroca",
+      "email": "pedroca55@outbook.com",
+      "id": 5
+    }
+  ]
+}
